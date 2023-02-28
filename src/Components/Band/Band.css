@@ -1,0 +1,21 @@
+.band {
+    border: 1px solid #f0eff4;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: #3a3e3b;
+}
+
+.band h2 {
+    font-size: 2em;
+    text-align: center;
+}
+
+.band-info {
+   font-size: 0.7em;
+   text-transform: uppercase;
+}
+
+.style-info {
+    font-size: 0.7em;
+    text-transform: capitalize;
+}

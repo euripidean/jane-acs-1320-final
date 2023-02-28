@@ -1,0 +1,22 @@
+.like {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #9e829c;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    color: #f0eff4;
+    font-size: 1.5em;
+    margin: 20px;
+    padding: 10px;
+}
+
+.like p {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 20px;
+    padding: 10px;
+}
