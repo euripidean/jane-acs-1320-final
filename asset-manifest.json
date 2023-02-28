@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jane-acs-1320-final/static/css/main.e4ba81ad.css",
+    "main.js": "/jane-acs-1320-final/static/js/main.de10d8f1.js",
+    "static/js/787.2e4b4bcb.chunk.js": "/jane-acs-1320-final/static/js/787.2e4b4bcb.chunk.js",
+    "index.html": "/jane-acs-1320-final/index.html",
+    "main.e4ba81ad.css.map": "/jane-acs-1320-final/static/css/main.e4ba81ad.css.map",
+    "main.de10d8f1.js.map": "/jane-acs-1320-final/static/js/main.de10d8f1.js.map",
+    "787.2e4b4bcb.chunk.js.map": "/jane-acs-1320-final/static/js/787.2e4b4bcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4ba81ad.css",
+    "static/js/main.de10d8f1.js"
+  ]
+}
