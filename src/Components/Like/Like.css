@@ -19,4 +19,10 @@ button {
     font-weight: bold;
     margin: 20px;
     padding: 10px;
+    color: #291528;
+}
+
+.fa-solid:hover {
+    color: #291528;
+    transform: scale(1.5);
 }
